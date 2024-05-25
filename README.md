@@ -1,2 +1,2 @@
 # sorting_algorithms
-for patika
+for patika.dev
